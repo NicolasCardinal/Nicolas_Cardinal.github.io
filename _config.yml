@@ -1,3 +1,27 @@
 title: "Nicolas Cardinal"
 description: "Mon portfolio & projets Data Science"
 theme: jekyll-theme-minimal
+
+title: "Nicolas Cardinal"
+description: >- 
+  Data Scientist | R • Python • Git • SQL • Power BI
+
+# THEME
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
+
+# Author
+author:
+  name: "Nicolas Cardinal"
+  bio: "Mon portfolio & projets Data Science"
+  location: "Île-de-France"
+
+# Social links
+social:
+  github: https://github.com/NicolasCardinal/
+  linkedin: www.linkedin.com/in/nicolas-cardinal-data-scientist
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
