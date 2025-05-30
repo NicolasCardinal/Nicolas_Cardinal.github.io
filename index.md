@@ -1,5 +1,3 @@
-# About me
-
 As a data scientist passionate about artificial intelligence, I transform data into innovative solutions to inform decision-making.
 
 With strong skills in data science and machine learning, I master the entire analytical process, from data extraction to communicating results.
