@@ -1,5 +1,5 @@
 ---
-title: “About me”
+title: About me
 ---
 
 As a data scientist passionate about artificial intelligence, I transform data into innovative solutions to inform decision-making.
