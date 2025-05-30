@@ -2,11 +2,6 @@ title: "Nicolas Cardinal"
 description: >- 
   Data Scientist | R • Python • Git • SQL • Power BI
 
-# THEME
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-plugins:
-  - jekyll-include-cache
-
 # Author
 author:
   name: "Nicolas Cardinal"
