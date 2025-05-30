@@ -5,14 +5,3 @@ description: >-
 # Author
 author:
   name: "Nicolas Cardinal"
-  bio: "Mon portfolio & projets Data Science"
-  location: "Île-de-France"
-
-# Social links
-social:
-  github: https://github.com/NicolasCardinal/
-  linkedin: www.linkedin.com/in/nicolas-cardinal-data-scientist
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
